@@ -62,37 +62,43 @@
     width: 20%;
     /* Fallback */
     width: calc(100% / 4); } }
+
 @media screen and (max-width: 1190px) {
   .projects li {
     width: 20%;
     /* Fallback */
     width: calc(100% / 4); } }
+
 @media screen and (max-width: 945px) {
   .projects li {
     width: 25%;
     /* Fallback */
     width: calc(100% / 3); }
-
   .projects li a:hover div {
     opacity: 0; } }
+
 @media screen and (max-width: 660px) {
   .projects li {
     width: 33.3333333%;
     /* Fallback */
     width: calc(100% / 3); } }
+
 @media screen and (max-width: 660px) {
   .projects li {
     width: 33.3333333%;
     /* Fallback */
     width: calc(100% / 2); } }
+
 @media screen and (max-width: 400px) {
   .projects li {
     width: 50%;
     /* Fallback */
     width: calc(100% / 2); } }
+
 @media screen and (max-width: 300px) {
   .projects li {
     width: 100%; } }
+
 /*-----------------------------------*\
   $TOAST-GRID
   An insane grid.
@@ -142,12 +148,15 @@
 @media (min-width: 768px) {
   .container {
     width: 750px; } }
+
 @media (min-width: 992px) {
   .container {
     width: 970px; } }
+
 @media (min-width: 1200px) {
   .container {
     width: 1170px; } }
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto; }
@@ -166,10 +175,10 @@
   width: 50%; }
 
 .col--1-of-3, .col--2-of-6, .col--4-of-12 {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
 
 .col--2-of-3, .col--4-of-6, .col--8-of-12 {
-  width: 66.66667%; }
+  width: 66.6666666667%; }
 
 .col--1-of-4, .col--2-of-8, .col--3-of-12 {
   width: 25%; }
@@ -184,10 +193,10 @@
   margin-left: 50%; }
 
 .col--push-1-of-3, .col--push-2-of-6, .col--push-4-of-12 {
-  margin-left: 33.33333%; }
+  margin-left: 33.3333333333%; }
 
 .col--push-2-of-3, .col--push-4-of-6, .col--push-8-of-12 {
-  margin-left: 66.66667%; }
+  margin-left: 66.6666666667%; }
 
 .col--push-1-of-4, .col--push-2-of-8, .col--push-3-of-12 {
   margin-left: 25%; }
@@ -202,10 +211,10 @@
   margin-left: -50%; }
 
 .col--pull-1-of-3, .col--pull-2-of-6, .col--pull-4-of-12 {
-  margin-left: -33.33333%; }
+  margin-left: -33.3333333333%; }
 
 .col--pull-2-of-3, .col--pull-4-of-6, .col--pull-8-of-12 {
-  margin-left: -66.66667%; }
+  margin-left: -66.6666666667%; }
 
 .col--pull-1-of-4, .col--pull-2-of-8, .col--pull-3-of-12 {
   margin-left: -25%; }
@@ -250,22 +259,22 @@
   margin-left: -80%; }
 
 .col--1-of-6 {
-  width: 16.66667%; }
+  width: 16.6666666667%; }
 
 .col--push-1-of-6 {
-  margin-left: 16.66667%; }
+  margin-left: 16.6666666667%; }
 
 .col--pull-1-of-6 {
-  margin-left: -16.66667%; }
+  margin-left: -16.6666666667%; }
 
 .col--5-of-6 {
-  width: 83.33333%; }
+  width: 83.3333333333%; }
 
 .col--push-5-of-6 {
-  margin-left: 83.33333%; }
+  margin-left: 83.3333333333%; }
 
 .col--pull-5-of-6 {
-  margin-left: -83.33333%; }
+  margin-left: -83.3333333333%; }
 
 .col--1-of-8 {
   width: 12.5%; }
@@ -304,58 +313,58 @@
   margin-left: -87.5%; }
 
 .col--1-of-12 {
-  width: 8.33333%; }
+  width: 8.3333333333%; }
 
 .col--push-1-of-12 {
-  margin-left: 8.33333%; }
+  margin-left: 8.3333333333%; }
 
 .col--pull-1-of-12 {
-  margin-left: -8.33333%; }
+  margin-left: -8.3333333333%; }
 
 .col--2-of-12 {
-  width: 16.66667%; }
+  width: 16.6666666667%; }
 
 .col--push-2-of-12 {
-  margin-left: 16.66667%; }
+  margin-left: 16.6666666667%; }
 
 .col--pull-2-of-12 {
-  margin-left: -16.66667%; }
+  margin-left: -16.6666666667%; }
 
 .col--5-of-12 {
-  width: 41.66667%; }
+  width: 41.6666666667%; }
 
 .col--push-5-of-12 {
-  margin-left: 41.66667%; }
+  margin-left: 41.6666666667%; }
 
 .col--pull-5-of-12 {
-  margin-left: -41.66667%; }
+  margin-left: -41.6666666667%; }
 
 .col--7-of-12 {
-  width: 58.33333%; }
+  width: 58.3333333333%; }
 
 .col--push-7-of-12 {
-  margin-left: 58.33333%; }
+  margin-left: 58.3333333333%; }
 
 .col--pull-7-of-12 {
-  margin-left: -58.33333%; }
+  margin-left: -58.3333333333%; }
 
 .col--10-of-12 {
-  width: 83.33333%; }
+  width: 83.3333333333%; }
 
 .col--push-10-of-12 {
-  margin-left: 83.33333%; }
+  margin-left: 83.3333333333%; }
 
 .col--pull-10-of-12 {
-  margin-left: -83.33333%; }
+  margin-left: -83.3333333333%; }
 
 .col--11-of-12 {
-  width: 91.66667%; }
+  width: 91.6666666667%; }
 
 .col--push-11-of-12 {
-  margin-left: 91.66667%; }
+  margin-left: 91.6666666667%; }
 
 .col--pull-11-of-12 {
-  margin-left: -91.66667%; }
+  margin-left: -91.6666666667%; }
 
 .col {
   box-sizing: border-box;
@@ -377,9 +386,9 @@
     .col.col--m-1-of-2, .col.col--m-2-of-4 {
       width: 50%; }
     .col.col--m-1-of-3 {
-      width: 33.33333%; }
+      width: 33.3333333333%; }
     .col.col--m-2-of-3 {
-      width: 66.66667%; }
+      width: 66.6666666667%; }
     .col.col--m-1-of-4 {
       width: 25%; }
     .col.col--m-3-of-4 {
@@ -391,9 +400,9 @@
     .col.col--s-1-of-2, .col.col--s-2-of-4 {
       width: 50%; }
     .col.col--s-1-of-3 {
-      width: 33.33333%; }
+      width: 33.3333333333%; }
     .col.col--s-2-of-3 {
-      width: 66.66667%; }
+      width: 66.6666666667%; }
     .col.col--s-1-of-4 {
       width: 25%; }
     .col.col--s-3-of-4 {
@@ -427,28 +436,32 @@
 
 @font-face {
   font-family: 'sinkin_sans300_light';
-  src: url(../fonts/sinkinsans_300light_macroman/SinkinSans-300Light-webfont.eot);
-  src: url(../fonts/sinkinsans_300light_macroman/SinkinSans-300Light-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sinkinsans_300light_macroman/SinkinSans-300Light-webfont.woff) format("woff"), url(../fonts/sinkinsans_300light_macroman/SinkinSans-300Light-webfont.ttf) format("truetype"), url(../fonts/sinkinsans_300light_macroman/SinkinSans-300Light-webfont.svg#sinkin_sans300_light) format("svg");
+  src: url("SinkinSans-300Light-webfont.eot");
+  src: url("SinkinSans-300Light-webfont.eot?#iefix") format("embedded-opentype"), url("SinkinSans-300Light-webfont.woff") format("woff"), url("SinkinSans-300Light-webfont.ttf") format("truetype"), url("SinkinSans-300Light-webfont.svg#sinkin_sans300_light") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 @font-face {
   font-family: 'sinkin_sans400_regular';
-  src: url(../fonts/sinkinsans_400regular_macroman/SinkinSans-400Regular-webfont.eot);
-  src: url(../fonts/sinkinsans_400regular_macroman/SinkinSans-400Regular-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sinkinsans_400regular_macroman/SinkinSans-400Regular-webfont.woff) format("woff"), url(../fonts/sinkinsans_400regular_macroman/SinkinSans-400Regular-webfont.ttf) format("truetype"), url(../fonts/sinkinsans_400regular_macroman/SinkinSans-400Regular-webfont.svg#sinkin_sans400_regular) format("svg");
+  src: url("SinkinSans-400Regular-webfont.eot");
+  src: url("SinkinSans-400Regular-webfont.eot?#iefix") format("embedded-opentype"), url("SinkinSans-400Regular-webfont.woff") format("woff"), url("SinkinSans-400Regular-webfont.ttf") format("truetype"), url("SinkinSans-400Regular-webfont.svg#sinkin_sans400_regular") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 @font-face {
   font-family: 'sinkin_sans500_medium';
-  src: url(../fonts/sinkinsans_500medium_macroman/SinkinSans-500Medium-webfont.eot);
-  src: url(../fonts/sinkinsans_500medium_macroman/SinkinSans-500Medium-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sinkinsans_500medium_macroman/SinkinSans-500Medium-webfont.woff) format("woff"), url(../fonts/sinkinsans_500medium_macroman/SinkinSans-500Medium-webfont.ttf) format("truetype"), url(../fonts/sinkinsans_500medium_macroman/SinkinSans-500Medium-webfont.svg#sinkin_sans500_medium) format("svg");
+  src: url("SinkinSans-500Medium-webfont.eot");
+  src: url("SinkinSans-500Medium-webfont.eot?#iefix") format("embedded-opentype"), url("SinkinSans-500Medium-webfont.woff") format("woff"), url("SinkinSans-500Medium-webfont.ttf") format("truetype"), url("SinkinSans-500Medium-webfont.svg#sinkin_sans500_medium") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 @font-face {
   font-family: 'sinkin_sans700_bold';
-  src: url(../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.eot);
-  src: url(../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.woff) format("woff"), url(../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.ttf) format("truetype"), url(../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.svg#sinkin_sans700_bold) format("svg");
+  src: url("SinkinSans-700Bold-webfont.eot");
+  src: url("SinkinSans-700Bold-webfont.eot?#iefix") format("embedded-opentype"), url("SinkinSans-700Bold-webfont.woff") format("woff"), url("SinkinSans-700Bold-webfont.ttf") format("truetype"), url("SinkinSans-700Bold-webfont.svg#sinkin_sans700_bold") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 html {
   font-size: 62.5%; }
 
@@ -482,7 +495,7 @@ nav {
   float: right !important; }
 
 .logo {
-  background-image: url(../img/logo.svg);
+  background-image: url(img/logo.svg);
   background-repeat: no-repeat;
   height: 2.6em;
   width: 18em;
@@ -518,7 +531,7 @@ nav li {
     margin-right: 0; }
 
 .footerlogo {
-  background-image: url(../img/logo.svg);
+  background-image: url(img/logo.svg);
   background-repeat: no-repeat;
   height: 2.6em;
   width: 18em;
@@ -627,7 +640,7 @@ textarea:focus, input:focus, select:focus {
   box-shadow: none; }
 
 select {
-  background: url(../img/arrows.svg) no-repeat 99% 50%;
+  background: url(img/arrows.svg) no-repeat 99% 50%;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
@@ -824,6 +837,7 @@ ul.clientslist {
     background: #293c90; }
   100% {
     background: #e0282a; } }
+
 @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */ {
   0% {
     background: #e0282a; }
@@ -839,85 +853,73 @@ ul.clientslist {
     background: #293c90; }
   100% {
     background: #e0282a; } }
+
 @media screen and (max-width: 760px) {
   .topnav {
     float: none !important;
     padding-left: 0;
     text-align: center;
     margin-top: 3em; }
-
   nav {
     margin-top: 3.6em;
     margin-bottom: 0.3em; }
-
   nav ul li a {
     font-size: 1.4em;
     letter-spacing: 0.3em; }
-
   nav ul li a:hover {
     padding-bottom: 0.5em;
     border-bottom: 0.5em solid;
     padding-top: 0;
     border-top: 0; }
-
   nav li.current a {
     padding-bottom: 0.5em;
     border-bottom: 0.5em solid;
     padding-top: 0m;
     border-top: 0; }
-
   .logo {
     display: block;
     float: none;
     margin-left: auto;
     margin-right: auto; }
-
   h1 {
     font-size: 2.1em; }
-
   h2, h4 {
     font-size: 1.8em; }
-
   .clientslist {
     font-size: .8em; }
-
   p {
     font-size: 1.4em; }
-
   .details, .gray {
     font-size: 1em; } }
+
 @media screen and (max-width: 699px) {
   nav {
     margin-bottom: 0.3em; } }
+
 @media screen and (max-width: 660px) {
   .logo {
     height: 2.6em;
     width: 18em; }
-
   .photo {
     margin-bottom: 0; }
-
   .footerlogo {
-    background-image: url(../img/logo.svg);
+    background-image: url(img/logo.svg);
     height: 1.9em;
     width: 13em;
     display: flex;
     justify-content: center; }
-
   .footer_navigation ul li a {
     font-size: 1.2em;
     letter-spacing: 0.12em; }
-
   .footer_navigation li.current a {
     border-bottom: none; } }
+
 @media screen and (max-width: 480px) {
   h1 {
     margin-top: 1.8em;
     margin-bottom: 0.6em; }
-
   form {
     margin: 0 0 48px 0; }
-
   ul.clientslist {
     margin-left: auto;
     margin-right: auto;
@@ -927,44 +929,38 @@ ul.clientslist {
     -moz-column-count: 3;
     column-count: 3;
     list-style: none; } }
+
 @media screen and (max-width: 400px) {
   .topnav {
     float: none !important;
     padding-left: 0;
     margin-top: 3em; }
-
   nav {
     margin-bottom: 0.5em; }
-
   nav ul li a {
     letter-spacing: 0.1em; }
-
   nav ul li a:hover {
     padding-bottom: 0.6em;
     border-bottom: 0.5em solid;
     padding-top: 0m;
     border-top: 0; }
-
   nav li.current a {
     padding-bottom: 0.6em;
     border-bottom: 0.5em solid #1a1a1a;
     padding-top: 0m;
     border-top: 0; }
-
   form {
     margin: 0 0 36px 0; } }
+
 @media screen and (max-width: 340px) {
   .name, .mail {
     width: 48%;
     float: left;
     margin-right: 8px; }
-
   .company, .phone {
     width: 48%; }
-
   h1 {
     font-size: 2.1em;
     margin-top: 1.2em; }
-
   p {
     font-size: 1.4em; } }
