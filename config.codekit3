@@ -17,41 +17,41 @@
 		"oAP": "/docs/.gitattributes",
 		"oF": 0
 		},
-	"/314bits.html": {
+	"/314bits.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/314bits.html",
 		"oF": 0
 		},
-	"/about.html": {
+	"/about.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/about.html",
 		"oF": 0
 		},
-	"/artone.html": {
+	"/artone.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/artone.html",
 		"oF": 0
 		},
-	"/characters.html": {
+	"/characters.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/characters.html",
 		"oF": 0
 		},
-	"/contact.html": {
+	"/contact.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/contact.html",
@@ -132,17 +132,17 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/dentacoin.html": {
+	"/dentacoin.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/dentacoin.html",
 		"oF": 0
 		},
-	"/devcon.html": {
+	"/devcon.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/devcon.html",
@@ -1998,25 +1998,25 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/gabrovo.html": {
+	"/gabrovo.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/gabrovo.html",
 		"oF": 0
 		},
-	"/herrdonald.html": {
+	"/herrdonald.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/herrdonald.html",
 		"oF": 0
 		},
-	"/huichol.html": {
+	"/huichol.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/huichol.html",
@@ -2080,7 +2080,7 @@
 		"oAP": "/docs/img/lyudmil.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/09/09_cover.png": {
@@ -2090,7 +2090,7 @@
 		"oAP": "/docs/img/projects/09/09_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2112,7 +2112,7 @@
 		"oAP": "/docs/img/projects/09/people.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2123,7 +2123,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-01.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2134,7 +2134,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-02.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2145,7 +2145,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-03.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2156,7 +2156,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-04.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2178,7 +2178,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-06.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2189,7 +2189,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-07.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2200,7 +2200,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-08.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2211,7 +2211,7 @@
 		"oAP": "/docs/img/projects/314bits/314-bits-09.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2222,7 +2222,7 @@
 		"oAP": "/docs/img/projects/314bits_thumb.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2232,7 +2232,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/a_logo.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/artone/artone_cover.jpg": {
 		"ft": 16384,
@@ -2242,7 +2242,7 @@
 		"oAP": "/docs/img/projects/artone/artone_cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/artone/butterfly2.jpg": {
@@ -2253,7 +2253,7 @@
 		"oAP": "/docs/img/projects/artone/butterfly2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/artone/jivag.jpg": {
@@ -2264,7 +2264,7 @@
 		"oAP": "/docs/img/projects/artone/jivag.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/artone/needdeep.jpg": {
@@ -2286,7 +2286,7 @@
 		"oAP": "/docs/img/projects/artone/takemehand.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/artone/thewetwaxproject.jpg": {
@@ -2297,7 +2297,7 @@
 		"oAP": "/docs/img/projects/artone/thewetwaxproject.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/artone_thumb.jpg": {
@@ -2319,7 +2319,7 @@
 		"oAP": "/docs/img/projects/benix_logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/benix_logo_v2.jpg": {
@@ -2330,7 +2330,7 @@
 		"oAP": "/docs/img/projects/benix_logo_v2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/benix_logo_v3.jpg": {
@@ -2341,7 +2341,7 @@
 		"oAP": "/docs/img/projects/benix_logo_v3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/benix_logo_v4.jpg": {
@@ -2352,7 +2352,7 @@
 		"oAP": "/docs/img/projects/benix_logo_v4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/benix_logo_v5.jpg": {
@@ -2363,7 +2363,7 @@
 		"oAP": "/docs/img/projects/benix_logo_v5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/home1.jpg": {
@@ -2385,7 +2385,7 @@
 		"oAP": "/docs/img/projects/bhp/home2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/more1.jpg": {
@@ -2396,7 +2396,7 @@
 		"oAP": "/docs/img/projects/bhp/more1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/more2.jpg": {
@@ -2407,7 +2407,7 @@
 		"oAP": "/docs/img/projects/bhp/more2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/photo1.jpg": {
@@ -2418,7 +2418,7 @@
 		"oAP": "/docs/img/projects/bhp/photo1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/photo2.jpg": {
@@ -2429,7 +2429,7 @@
 		"oAP": "/docs/img/projects/bhp/photo2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/posters_cover.png": {
@@ -2439,7 +2439,7 @@
 		"oAP": "/docs/img/projects/bhp/posters_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2451,7 +2451,7 @@
 		"oAP": "/docs/img/projects/bhp/video1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp/video2.jpg": {
@@ -2462,7 +2462,7 @@
 		"oAP": "/docs/img/projects/bhp/video2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/bhp_thumb.png": {
@@ -2472,7 +2472,7 @@
 		"oAP": "/docs/img/projects/bhp_thumb.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2484,7 +2484,7 @@
 		"oAP": "/docs/img/projects/breeze.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/carrot.png": {
@@ -2494,7 +2494,7 @@
 		"oAP": "/docs/img/projects/carrot.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2505,7 +2505,7 @@
 		"oAP": "/docs/img/projects/characters/all.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2517,7 +2517,7 @@
 		"oAP": "/docs/img/projects/characters/all_1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/characters/characters_cover.png": {
@@ -2527,7 +2527,7 @@
 		"oAP": "/docs/img/projects/characters/characters_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2538,7 +2538,7 @@
 		"oAP": "/docs/img/projects/characters/cups.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2550,7 +2550,7 @@
 		"oAP": "/docs/img/projects/characters_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/dentacoin/dentacoin_cover.png": {
@@ -2560,7 +2560,7 @@
 		"oAP": "/docs/img/projects/dentacoin/dentacoin_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2571,7 +2571,7 @@
 		"oAP": "/docs/img/projects/dentacoin/dentacoin_landingpage.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2582,7 +2582,7 @@
 		"oAP": "/docs/img/projects/dentacoin/Dentacoin_Platform.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2593,7 +2593,7 @@
 		"oAP": "/docs/img/projects/dentacoin/Dentacoin_Platform_login.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2604,7 +2604,7 @@
 		"oAP": "/docs/img/projects/dentacoin_thumb.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2614,7 +2614,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/design.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/devcon/DevCon_About.png": {
 		"ft": 32768,
@@ -2623,7 +2623,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_About.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2634,7 +2634,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_About_res.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2645,7 +2645,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Contact.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2656,7 +2656,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Contact_res.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2668,7 +2668,7 @@
 		"oAP": "/docs/img/projects/devcon/devcon_cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/devcon/DevCon_FAQ.png": {
@@ -2678,7 +2678,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_FAQ.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2700,7 +2700,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Gallery.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2733,7 +2733,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Home_s2.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2744,7 +2744,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Lectures.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2755,7 +2755,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Lectures_res.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2777,7 +2777,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Registration.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2799,7 +2799,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Speakers 01.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2810,7 +2810,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Speakers.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2832,7 +2832,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Welcome 01.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2843,7 +2843,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Welcome.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2854,7 +2854,7 @@
 		"oAP": "/docs/img/projects/devcon/DevCon_Welcome_res.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2866,18 +2866,18 @@
 		"oAP": "/docs/img/projects/devcon_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/dm/cover.jpg": {
 		"ft": 16384,
-		"iS": 17171,
+		"iS": 114714,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/docs/img/projects/dm/cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/dm/cover2.jpg": {
@@ -2888,7 +2888,7 @@
 		"oAP": "/docs/img/projects/dm/cover2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/dm/logos.jpg": {
@@ -2909,7 +2909,7 @@
 		"oAP": "/docs/img/projects/dm/logos.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2920,7 +2920,7 @@
 		"oAP": "/docs/img/projects/dm/logos2_1.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2931,7 +2931,7 @@
 		"oAP": "/docs/img/projects/dm/logos2_2.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2942,7 +2942,7 @@
 		"oAP": "/docs/img/projects/dm/logos2_3.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2953,7 +2953,7 @@
 		"oAP": "/docs/img/projects/dm/logos2_4.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2964,7 +2964,7 @@
 		"oAP": "/docs/img/projects/dm/logos3_1.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2986,7 +2986,7 @@
 		"oAP": "/docs/img/projects/dm/logos_1.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2997,7 +2997,7 @@
 		"oAP": "/docs/img/projects/dm/logos_2 copy.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3030,7 +3030,7 @@
 		"oAP": "/docs/img/projects/dm/logos_3.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3041,7 +3041,7 @@
 		"oAP": "/docs/img/projects/dm/logos_4 copy.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3063,7 +3063,7 @@
 		"oAP": "/docs/img/projects/dm/web copy.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3074,7 +3074,7 @@
 		"oAP": "/docs/img/projects/dm/web.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3085,7 +3085,7 @@
 		"oAP": "/docs/img/projects/dm/web2.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3096,7 +3096,7 @@
 		"oAP": "/docs/img/projects/dm/web3.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3141,7 +3141,7 @@
 		"oAP": "/docs/img/projects/ebinqo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/emenu/emenu.jpg": {
@@ -3152,7 +3152,7 @@
 		"oAP": "/docs/img/projects/emenu/emenu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/gabrovo/gabrovo.jpg": {
@@ -3163,18 +3163,18 @@
 		"oAP": "/docs/img/projects/gabrovo/gabrovo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"/img/projects/gabrovo/gabrovo_cover.jpg": {
-		"ft": 16384,
-		"iS": 157979,
-		"jF": 0,
+	"/img/projects/gabrovo/gabrovo_cover.png": {
+		"ft": 32768,
+		"iS": 253278,
 		"oA": 0,
-		"oAP": "/docs/img/projects/gabrovo/gabrovo_cover.jpg",
+		"oAP": "/docs/img/projects/gabrovo/gabrovo_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/projects/gabrovo_thumb.jpg": {
@@ -3185,7 +3185,7 @@
 		"oAP": "/docs/img/projects/gabrovo_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/herrdonald/herrdonald.png": {
@@ -3195,7 +3195,7 @@
 		"oAP": "/docs/img/projects/herrdonald/herrdonald.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3206,7 +3206,7 @@
 		"oAP": "/docs/img/projects/herrdonald/herrdonald_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3218,7 +3218,7 @@
 		"oAP": "/docs/img/projects/herrdonald_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/huichol/huichol_cover.png": {
@@ -3228,7 +3228,7 @@
 		"oAP": "/docs/img/projects/huichol/huichol_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3239,7 +3239,7 @@
 		"oAP": "/docs/img/projects/huichol/huichol_web.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3250,7 +3250,7 @@
 		"oAP": "/docs/img/projects/huichol/logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3261,7 +3261,7 @@
 		"oAP": "/docs/img/projects/huichol/pattern.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3283,7 +3283,7 @@
 		"oAP": "/docs/img/projects/huichol_thumb.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3295,7 +3295,7 @@
 		"oAP": "/docs/img/projects/isystems.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/isystems2.jpg": {
@@ -3306,7 +3306,7 @@
 		"oAP": "/docs/img/projects/isystems2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/jwax/jwax_cover.jpg": {
@@ -3317,7 +3317,7 @@
 		"oAP": "/docs/img/projects/jwax/jwax_cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/jwax_thumb.jpg": {
@@ -3338,7 +3338,7 @@
 		"oAP": "/docs/img/projects/kapana/kapana.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3349,7 +3349,7 @@
 		"oAP": "/docs/img/projects/kapana/kapana_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3361,7 +3361,7 @@
 		"oAP": "/docs/img/projects/kapana_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/livecasts/livecasts copy.png": {
@@ -3371,7 +3371,7 @@
 		"oAP": "/docs/img/projects/livecasts/livecasts copy.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3394,7 +3394,7 @@
 		"oAP": "/docs/img/projects/livecasts/livecasts_cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/livecasts_thumb.jpg": {
@@ -3405,7 +3405,7 @@
 		"oAP": "/docs/img/projects/livecasts_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/logo_thumb.jpg": {
@@ -3416,7 +3416,7 @@
 		"oAP": "/docs/img/projects/logo_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/logos/basel.png": {
@@ -3437,7 +3437,7 @@
 		"oAP": "/docs/img/projects/logos/bhp.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3448,7 +3448,7 @@
 		"oAP": "/docs/img/projects/logos/carrot.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3459,7 +3459,7 @@
 		"oAP": "/docs/img/projects/logos/dm.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3470,7 +3470,7 @@
 		"oAP": "/docs/img/projects/logos/emenu.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3481,7 +3481,7 @@
 		"oAP": "/docs/img/projects/logos/evermore.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3492,7 +3492,7 @@
 		"oAP": "/docs/img/projects/logos/felina.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3503,7 +3503,7 @@
 		"oAP": "/docs/img/projects/logos/gci.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3536,7 +3536,7 @@
 		"oAP": "/docs/img/projects/logos/huichol.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3547,7 +3547,7 @@
 		"oAP": "/docs/img/projects/logos/jwax.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3558,7 +3558,7 @@
 		"oAP": "/docs/img/projects/logos/kapana.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3569,7 +3569,7 @@
 		"oAP": "/docs/img/projects/logos/lovech.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3591,7 +3591,7 @@
 		"oAP": "/docs/img/projects/logos/poyden.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3602,7 +3602,7 @@
 		"oAP": "/docs/img/projects/logos/rtrans.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3624,7 +3624,7 @@
 		"oAP": "/docs/img/projects/logos/si.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3646,7 +3646,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-29.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3657,7 +3657,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-30.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3668,7 +3668,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-31.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3701,7 +3701,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-34.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3712,7 +3712,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-35.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3723,7 +3723,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-36.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3734,7 +3734,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-37.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3745,7 +3745,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-38.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3756,7 +3756,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-39.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3767,7 +3767,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-40.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3778,7 +3778,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-41.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3789,7 +3789,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-42.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3800,7 +3800,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-43.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3811,7 +3811,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-44.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3822,7 +3822,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-45.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3833,7 +3833,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-46.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3844,7 +3844,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-47.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3855,7 +3855,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-48.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3866,7 +3866,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-49.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3877,7 +3877,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-50.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3888,7 +3888,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-51 2.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3910,7 +3910,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-52.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3921,7 +3921,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-53.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3943,7 +3943,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-55.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3954,7 +3954,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-56.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3965,7 +3965,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-57.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3987,7 +3987,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-60.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3998,7 +3998,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-61.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4009,7 +4009,7 @@
 		"oAP": "/docs/img/projects/logos/thumbs/logo collection-62.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4031,7 +4031,7 @@
 		"oAP": "/docs/img/projects/logos/x2z.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4042,7 +4042,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_about.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4064,7 +4064,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_contact.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4075,7 +4075,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_contact_responsive.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4087,7 +4087,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/phweb/ph_home.png": {
@@ -4108,7 +4108,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_home_responsive.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4119,7 +4119,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_inner.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4130,7 +4130,7 @@
 		"oAP": "/docs/img/projects/phweb/ph_inner_responsive.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4153,7 +4153,7 @@
 		"oAP": "/docs/img/projects/poyden.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/rTrans_logo.jpg": {
@@ -4164,7 +4164,7 @@
 		"oAP": "/docs/img/projects/rTrans_logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/ruth/album.jpg": {
@@ -4175,7 +4175,7 @@
 		"oAP": "/docs/img/projects/ruth/album.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/ruth/poster.jpg": {
@@ -4186,7 +4186,7 @@
 		"oAP": "/docs/img/projects/ruth/poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/ruth/ruth_cd.jpg": {
@@ -4197,7 +4197,7 @@
 		"oAP": "/docs/img/projects/ruth/ruth_cd.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/ruth/ruth_covers.png": {
@@ -4207,7 +4207,7 @@
 		"oAP": "/docs/img/projects/ruth/ruth_covers.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4241,7 +4241,7 @@
 		"oAP": "/docs/img/projects/sitostudio/courses.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/sitostudio/gallery.jpg": {
@@ -4263,7 +4263,7 @@
 		"oAP": "/docs/img/projects/sitostudio/signup.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/sitostudio/sito_about.gif": {
@@ -4272,7 +4272,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_about.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_about_mobile.gif": {
 		"ft": 4194304,
@@ -4280,7 +4280,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_about_mobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_blog.gif": {
 		"ft": 4194304,
@@ -4288,7 +4288,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_blog.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_blog_mobile.gif": {
 		"ft": 4194304,
@@ -4296,7 +4296,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_blog_mobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_contact.gif": {
 		"ft": 4194304,
@@ -4304,7 +4304,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_contact.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_contact_mobile.gif": {
 		"ft": 4194304,
@@ -4312,7 +4312,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_contact_mobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_courses.gif": {
 		"ft": 4194304,
@@ -4320,7 +4320,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_courses.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_courses_mobile.gif": {
 		"ft": 4194304,
@@ -4328,7 +4328,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_courses_mobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_gallery.gif": {
 		"ft": 4194304,
@@ -4336,7 +4336,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_gallery.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_gallery_mobile.gif": {
 		"ft": 4194304,
@@ -4344,7 +4344,7 @@
 		"oA": 0,
 		"oAP": "/docs/img/projects/sitostudio/sito_gallery_mobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/img/projects/sitostudio/sito_signup.gif": {
 		"ft": 4194304,
@@ -4369,7 +4369,7 @@
 		"oAP": "/docs/img/projects/sitostudio/sitostudio_cover.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4380,7 +4380,7 @@
 		"oAP": "/docs/img/projects/sitostudio_thumb.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4414,7 +4414,7 @@
 		"oAP": "/docs/img/projects/vertigo/website.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/vertigo_thumb copy.jpg": {
@@ -4436,7 +4436,7 @@
 		"oAP": "/docs/img/projects/vertigo_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/projects/water/water_cover.jpg": {
@@ -4472,33 +4472,33 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/index.html": {
+	"/index.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/index.html",
 		"oF": 0
 		},
-	"/jwax.html": {
+	"/jwax.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/jwax.html",
 		"oF": 0
 		},
-	"/livecasts.html": {
+	"/livecasts.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/livecasts.html",
 		"oF": 0
 		},
-	"/logos.html": {
+	"/logos.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/logos.html",
@@ -4520,25 +4520,25 @@
 		"oAP": "/docs/partials/_contact.html",
 		"oF": 0
 		},
-	"/partials/_footer.html": {
+	"/partials/_footer.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_footer.html",
 		"oF": 0
 		},
-	"/partials/_header.html": {
+	"/partials/_header.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_header.html",
 		"oF": 0
 		},
-	"/partials/_nav.html": {
+	"/partials/_nav.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_nav.html",
@@ -4568,57 +4568,57 @@
 		"oAP": "/docs/partials/_thankyou.html",
 		"oF": 0
 		},
-	"/phwebsite.html": {
+	"/phwebsite.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/phwebsite.html",
 		"oF": 0
 		},
-	"/ruth.html": {
+	"/ruth.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/ruth.html",
 		"oF": 0
 		},
-	"/sitostudio.html": {
+	"/sitostudio.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/sitostudio.html",
 		"oF": 0
 		},
-	"/thankyou.html": {
+	"/thankyou.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/thankyou.html",
 		"oF": 0
 		},
-	"/tihomir_portfolio.html": {
+	"/tihomir_portfolio.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/tihomir_portfolio.html",
 		"oF": 0
 		},
-	"/vertigo.html": {
+	"/vertigo.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/vertigo.html",
 		"oF": 0
 		},
-	"/water.html": {
+	"/water.kit": {
 		"cB": 0,
-		"ft": 8192,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/water.html",
@@ -4634,7 +4634,8 @@
 	"displayValue": "314_Codekit",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 603383633.58118296
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
