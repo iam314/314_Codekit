@@ -2012,6 +2012,14 @@
 		"oAP": "/docs/gabrovo.html",
 		"oF": 0
 		},
+	"/gallerystyle.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/gallerystyle.html",
+		"oF": 0
+		},
 	"/herrdonald.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -3192,6 +3200,72 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_contact.png": {
+		"ft": 32768,
+		"iS": 593585,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_contact.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_cover.png": {
+		"ft": 32768,
+		"iS": 8844,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_eventslistings.png": {
+		"ft": 32768,
+		"iS": 4980730,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_eventslistings.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_home.png": {
+		"ft": 32768,
+		"iS": 4588886,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_home.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_listing.png": {
+		"ft": 32768,
+		"iS": 1728207,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_listing.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerysyle_thumb.png": {
+		"ft": 32768,
+		"iS": 2923,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerysyle_thumb.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/projects/herrdonald/herrdonald.png": {
