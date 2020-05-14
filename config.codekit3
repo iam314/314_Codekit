@@ -3213,6 +3213,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/projects/gallerystyle/gallerystyle_contact_m.png": {
+		"ft": 32768,
+		"iS": 287223,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_contact_m.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/projects/gallerystyle/gallerystyle_cover.png": {
 		"ft": 32768,
 		"iS": 8844,
@@ -3235,6 +3246,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/projects/gallerystyle/gallerystyle_eventslistings_m.png": {
+		"ft": 32768,
+		"iS": 657746,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_eventslistings_m.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/projects/gallerystyle/gallerystyle_home.png": {
 		"ft": 32768,
 		"iS": 4588886,
@@ -3246,11 +3268,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/projects/gallerystyle/gallerystyle_home_m.png": {
+		"ft": 32768,
+		"iS": 563874,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_home_m.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/projects/gallerystyle/gallerystyle_listing.png": {
 		"ft": 32768,
 		"iS": 1728207,
 		"oA": 0,
 		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_listing.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/projects/gallerystyle/gallerystyle_listing_m.png": {
+		"ft": 32768,
+		"iS": 1119226,
+		"oA": 0,
+		"oAP": "/docs/img/projects/gallerystyle/gallerystyle_listing_m.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
