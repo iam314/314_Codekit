@@ -148,6 +148,12 @@
 		"oAP": "/docs/devcon.html",
 		"oF": 0
 		},
+	"/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/docs",
+		"oF": 0
+		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -4893,14 +4899,6 @@
 		"oA": 0,
 		"oAP": "/docs/water.html",
 		"oF": 0
-		},
-	"/zohoverify/verifyforzoho.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/docs/zohoverify/verifyforzoho.html",
-		"oF": 1
 		}
 	},
 "hooks": [
