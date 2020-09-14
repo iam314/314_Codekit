@@ -7,7 +7,7 @@
 		"uuidString": "8F276B40-0B85-4623-AECC-BF72407EFB41"
 		}
 	],
-"creatorBuild": "32137",
+"creatorBuild": "32186",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -1671,6 +1671,158 @@
 		"oAP": "/docs/fonts/sinkin-sans-fontfacekit/web fonts/sinkinsans_900xblackitalic_macroman/stylesheet-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/fonts/sinkin-sans_offline_use/Apache License.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/Apache License.txt",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-100Thin.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-100Thin.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-100ThinItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-100ThinItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-200XLight.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-200XLight.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-200XLightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-200XLightItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-300Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-300Light.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-300LightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-300LightItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-400Italic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-400Italic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-400Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-400Regular.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-500Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-500Medium.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-500MediumItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-500MediumItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-600SemiBold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-600SemiBold.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-600SemiBoldItali.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-600SemiBoldItali.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-700Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-700Bold.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-700BoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-700BoldItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-800Black.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-800Black.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-800BlackItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-800BlackItalic.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-900XBlack.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-900XBlack.otf",
+		"oF": 0
+		},
+	"/fonts/sinkin-sans_offline_use/SinkinSans-900XBlackItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/fonts/sinkin-sans_offline_use/SinkinSans-900XBlackItalic.otf",
+		"oF": 0
 		},
 	"/fonts/sinkinsans_300light_macroman/SinkinSans-300Light-demo.html": {
 		"cB": 0,
@@ -4747,6 +4899,14 @@
 		"oA": 0,
 		"oAP": "/docs/water.html",
 		"oF": 0
+		},
+	"/zohoverify/verifyforzoho.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/zohoverify/verifyforzoho.html",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -5299,6 +5459,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -5711,6 +5875,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -5826,6 +5994,10 @@
 		"no-regex-spaces": {
 			"active": 1,
 			"optionString": ""
+			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
 			},
 		"no-restricted-globals": {
 			"active": 0,
@@ -5970,6 +6142,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
