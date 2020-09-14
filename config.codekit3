@@ -4898,9 +4898,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/docs/zohoverify/verifyforzoho.html",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
@@ -4913,7 +4913,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 621779801.59725106
+	"lastBuiltDate": 621780325.47874999
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
