@@ -148,12 +148,6 @@
 		"oAP": "/docs/devcon.html",
 		"oF": 0
 		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
-		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -4919,7 +4913,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 603383633.58118296
+	"lastBuiltDate": 621779801.59725106
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
